@@ -8,7 +8,7 @@ URL: https://w3id.org/ldes/specification
 Markup Shorthands: markdown yes
 Editor: Pieter Colpaert, https://pietercolpaert.be
 Repository: https://github.com/SEMICeu/LinkedDataEventStreams
-Abstract: A Linked Data Event Stream is a collection of immutable objects (such as version objects, sensor observations or archived representations). Each object is described in RDF.
+Abstract: A Linked Data Event Stream (LDES) is a collection of immutable RDF objects (such as version objects, sensor observations or archived representations).
 </pre>
 
 # Introduction # {#introduction}
